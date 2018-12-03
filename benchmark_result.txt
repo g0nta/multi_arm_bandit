@@ -1,0 +1,10 @@
+Epsilon-greedy_0.3
+	 Avg: 436.46, Std: 20.40216655161897, Max: 480, Min: 375
+Epsilon-greedy_0.5
+	 Avg: 414.29, Std: 15.896726078032547, Max: 441, Min: 379
+Epsilon-greedy_0.7
+	 Avg: 382.96, Std: 16.304551511771184, Max: 433, Min: 347
+UCB
+	 Avg: 409.08, Std: 21.391437539352047, Max: 457, Min: 346
+Thompson sampling
+	 Avg: 466.38, Std: 22.686903711172224, Max: 519, Min: 393
